@@ -1,0 +1,153 @@
+#mainbox {
+	background-color: white;
+	margin-top: -15px;
+	margin-left: 135px;
+}
+
+#firstcol {
+	float: left;
+	margin-top: 65px;
+	margin-left: -15px; 
+}
+
+.box1 {
+	border: 1.2px;
+	border-style: solid;
+	border-color: black;
+	border-radius: 5px;
+	width: 53px;
+	height: 53px;
+	background-color: #FFFF02;
+	color: black;
+	text-align: center;
+	font-size: 10px;
+	margin: 15px;
+}
+
+.Mg {
+	font-size: 17px;
+}
+
+.box2 {
+	border: 1.2px;
+	border-style: solid;
+	border-color: black;
+	border-radius: 5px;
+	width: 53px;
+	height: 53px;
+	background-color:  #33CCCC;
+	color: black;
+	text-align: center;
+	font-size: 10px;
+	margin: 15px;
+}
+
+#secondcol {
+	float: left;
+	margin-top: 135px; 
+	margin-left: -15px;
+}
+
+.box3 {
+	border: 1.2px;
+	border-style: solid;
+	border-color: black;
+	border-radius: 5px;
+	width: 53px;
+	height: 53px;
+	background-color: #FFCC99;
+	color: black;
+	text-align: center;
+	font-size: 10px;
+	margin: 15px;
+}
+
+.box4 {
+	border: 1.2px;
+	border-style: solid;
+	border-color: black;
+	border-radius: 5px;
+	width: 53px;
+	height: 53px;
+	background-color: #99FFCC;
+	color: black;
+	text-align: center;
+	font-size: 10px;
+	margin: 15px;
+}
+
+#thirdcol, #forthdcol {
+	float: left;
+	margin-top: 274px; 
+	margin-left: -15px;
+}
+
+.box5 {
+	border: 1.2px;
+	border-style: solid;
+	border-color: black;
+	border-radius: 5px;
+	width: 53px;
+	height: 53px;
+	background-color: #66FF66;
+	color: black;
+	text-align: center;
+	font-size: 10px;
+	margin: 15px;
+	}
+
+.box6 {
+	border: 1.2px;
+	border-style: solid;
+	border-color: black;
+	border-radius: 5px;
+	width: 53px;
+	height: 53px;
+	background-color: #FF9999;
+	color: black;
+	text-align: center;
+	font-size: 10px;
+	margin: 15px;
+}
+
+.box7 {
+	border: 1.2px;
+	border-style: solid;
+	border-color: black;
+	border-radius: 5px;
+	width: 53px;
+	height: 53px;
+	background-color: #FFCCCC;
+	color: black;
+	text-align: center;
+	font-size: 10px;
+	margin: 15px;
+}
+
+.box8{
+	border: 1.2px;
+	border-style: solid;
+	border-color: black;
+	border-radius: 5px;
+	width: 53px;
+	height: 53px;
+	background-color: #FF7F4F;
+	color: black;
+	text-align: center;
+	font-size: 10px;
+	margin: 15px;
+}
+
+.box9{
+	border: 1.2px;
+	border-style: solid;
+	border-color: black;
+	border-radius: 5px;
+	width: 53px;
+	height: 53px;
+	background-color: #FF99FF;
+	color: black;
+	text-align: center;
+	font-size: 10px;
+	margin: 15px;
+}
